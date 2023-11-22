@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Tenho 18 anos. amo programar e busco cada dia mais conhecimento. Sou calmo, flexível e procuro sempre me adaptar a novas situações.</h3>
+<h3 align="left">👩‍💻  Tenho 18 anos. Amo programar e busco cada dia mais conhecimento. Sou calmo, flexível e procuro sempre me adaptar a novas situações.</h3>
 
 ###
 
