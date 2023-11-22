@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Eu sou brsileiro<br><br>- 🔭 Sou formado em Técnico em Desenvolvimento de Sistemas<br>- 📚 Estou estudando atualmente Front End<br>- ⚡ No meu tempo livre eu costumo ler</p>
+<p align="left">Eu sou brasileiro<br><br>- 🔭 Sou formado em Técnico em Desenvolvimento de Sistemas<br>- 📚 Estou estudando atualmente Front End<br>- ⚡ No meu tempo livre eu costumo ler</p>
 
 ###
 
