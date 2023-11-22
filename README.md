@@ -25,11 +25,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Tenho 18 anos. Amo programar e busco cada dia mais conhecimento. Sou calmo, flexível e procuro sempre me adaptar a novas situações.</h3>
+<h3 align="left">👩‍💻  Tenho 18 anos. amo programar e busco cada dia mais conhecimento. Sou calmo, flexível e procuro sempre me adaptar a novas situações.</h3>
 
 ###
 
-<p align="left">Sou brasileiro<br><br>- 🔭 Sou formado em Técnico em Desenvolvimento de Sistemas<br>- 📚 Estou estudando atualmente Front End<br>- ⚡ No meu tempo livre costumo ler e pedalar</p>
+<p align="left">Eu sou brsileiro<br><br>- 🔭 Sou formado em Técnico em Desenvolvimento de Sistemas<br>- 📚 Estou estudando atualmente Front End<br>- ⚡ No meu tempo livre eu costumo ler</p>
 
 ###
 
@@ -51,6 +51,12 @@
 
 ###
 
+<div align="center">
+  <img height="300" src="https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1"  />
+</div>
+
+###
+
 <h3 align="left">🔥   Minhas estatísticas:</h3>
 
 ###
@@ -64,4 +70,3 @@
 <img src="https://raw.githubusercontent.com/EvertonBr16/EvertonBr16/output/snake.svg" alt="Snake animation" />
 
 ###
-  
