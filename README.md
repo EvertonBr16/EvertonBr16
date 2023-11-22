@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Everton Victor👋​</h2>
+<h2 center="left">Olá! Meu nome é Everton Victor👋​</h2>
 
 ###
 
