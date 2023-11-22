@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas estatísticas:</h3>
 
 ###
 
@@ -64,3 +64,4 @@
 <img src="https://raw.githubusercontent.com/EvertonBr16/EvertonBr16/output/snake.svg" alt="Snake animation" />
 
 ###
+  
