@@ -33,6 +33,12 @@
 
 ###
 
+<div align="center">
+  <img height="350" src="https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1"  />
+</div>
+
+###
+
 <h3 align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
@@ -47,12 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="400" src="https://cdnb.artstation.com/p/assets/images/images/030/555/445/original/runny-run-homegiffy.gif?1600953104&dl=1"  />
 </div>
 
 ###
