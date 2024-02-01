@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" <iframe src="https://giphy.com/embed/LSL5oY5sdt75zm8uk6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img height="150" <a href="https://giphy.com/stickers/Eurowings-world-welt-eurowings-LSL5oY5sdt75zm8uk6">
 </div>
 
 ###
