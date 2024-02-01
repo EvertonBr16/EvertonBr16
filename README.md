@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" <a href="[https://giphy.com/stickers/Eurowings-world-welt-eurowings-LSL5oY5sdt75zm8uk6](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI4cHY0OGVoNG1rem1ndDB5ZGtzMzdzMmN4OGxlMnV4OHAyejVyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LSL5oY5sdt75zm8uk6/giphy.gif)">
+  <img height="150" <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI4cHY0OGVoNG1rem1ndDB5ZGtzMzdzMmN4OGxlMnV4OHAyejVyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LSL5oY5sdt75zm8uk6/giphy.gif">
 </div>
 
 ###
