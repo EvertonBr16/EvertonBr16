@@ -1,11 +1,10 @@
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EvertonBr16.EvertonBr16&"  />
-</div>
-
 ###
 
-<h1 align="center">Eu sou Everton victor 👋</h1>
+<h1 align="center">Hello World! Eu sou Everton victor 👋</h1>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](evertonvictorpe@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evertonvictor._/)
 
 ###
 
