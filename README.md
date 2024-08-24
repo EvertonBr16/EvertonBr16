@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">Hello World! Eu sou Everton victor 👋</h1>
+<h1 align="center">🌎Hello World! Eu sou Everton victor 👋</h1>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evertonvictorpe@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evertonvictor._/)
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sou brasileiro<br><br>- 🔭 Sou formado em Técnico em Desenvolvimento de Sistemas<br>- 📚 Estou estudando atualmente Front End<br>- ⚡ No meu tempo livre costumo ler e pedalar</p>
+<p align="left">Sou brasileiro<br><br>- 🔭 Sou formado em Técnico em Desenvolvimento de Sistemas<br>- 🖥️ Estou Cursando Análise e Desenvolvimento de Sistemas<br>- 📚 Estou estudando atualmente Front End<br>- ⚡ No meu tempo livre costumo ler e pedalar</p>
 
 ###
 
