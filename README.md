@@ -1,7 +1,4 @@
 
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EvertonBr16.EvertonBr16&"  />
 </div>
